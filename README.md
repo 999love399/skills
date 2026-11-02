@@ -21,6 +21,7 @@ Many skills in this repo are open source (Apache 2.0). We've also included the d
 
 # Skill Sets
 - [./skills](./skills): Skill examples for Creative & Design, Development & Technical, Enterprise & Communication, and Document Skills
+- [./skills/web-artifacts-builder](./skills/web-artifacts-builder): Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui)
 - [./spec](./spec): The Agent Skills specification
 - [./template](./template): Skill template
 
